@@ -18,3 +18,9 @@ Se entregan los siguientes archivos:
 
 Aclaraciones:
 - El notebook de Jupyter "Tarea_2_v2.ipynb" contiene el código necesario para llevar a cabo la tarea según los requermientos de la propuesa, el pdf "Tarea 2 - Informe_v4.pdf" incluye los resultados más relevantes y el desarrollo de texto solicitado en la propuesta. Ambos documentos trabajan en forma solidaria y son indispensables para comprender la entrega en su totalidad.
+
+-----------------------------------------
+
+Tarea Final
+Se entrega el siguiente archivo:
+Tarea final - v2.pdf: Informe del trabajo final.
